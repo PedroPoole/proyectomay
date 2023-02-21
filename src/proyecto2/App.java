@@ -45,7 +45,7 @@ public class App
         
         
         ArrayList palabras=new ArrayList<String>();
-        palabras.add(3);
+        palabras.add("Dramatica");
         palabras.add("Sandia");
         palabras.add("Judia");
         palabras.add("Mora");
@@ -54,10 +54,10 @@ public class App
         AleatorioDescartando<String> ale =new AleatorioDescartando(palabras);
         
         try {
-			ale.darAleatorio();
-			ale.darAleatorio();
-			ale.darAleatorio();
-			ale.darAleatorio();
+			System.out.println(ale.darAleatorio());
+			System.out.println(ale.darAleatorio());
+			System.out.println(ale.darAleatorio());
+			System.out.println(ale.darAleatorio());
 			
 			
 			
