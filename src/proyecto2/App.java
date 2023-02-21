@@ -47,7 +47,7 @@ public class App
         ArrayList palabras=new ArrayList<String>();
         palabras.add("Dramatica");
         palabras.add("Sandia");
-        palabras.add("Judia");
+        palabras.add("Judsa");
         palabras.add("Mora");
         
         
